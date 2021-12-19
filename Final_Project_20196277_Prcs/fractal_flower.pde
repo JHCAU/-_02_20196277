@@ -1,3 +1,6 @@
+//fractal tree class
+//Referred to this ->  https://youtu.be/-kvel_C28aI
+
 class flower{
   
   float x, y, angle, len;
